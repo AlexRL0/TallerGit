@@ -1,16 +1,29 @@
 # TallerGit
 repositorio para el taller de git
 
-## Encabezado de tipo h2
+# Encabezado de tipo h1
 
-Bla bla bla.
+Esto es un texto en **negrita**
+Esto es un texto en __negrita__
 
-### Encabezado de tipo h3
+Esto es un texto en *cursiva*
+Esto es un texto en _cursiva_
 
-Ble ble ble.
+En esta frase estamos resaltado el comando `ls -la`.
 
-Hola a todos y bienvenidos a mi readme
+```
+sudo systemctl start apache2
+```
 
-Barra lateral 
+```bash
+#!/bin/bash
+echo "Hola mundo"
+```
 
-barra lateral 2
+Enlaces a la página web del [IES Celia Viñas][1] y a [GitHub][2].
+
+[1]: https://iescelia.org
+[2]: https://github.com
+
+
+![](https://iescelia.org/web/wp-content/uploads/2012/05/iescelia_1950.jpg)
